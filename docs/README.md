@@ -12,11 +12,13 @@
 - [@thelight1](https://github.com/thelight1)
 - [@SataQiu](https://github.com/SataQiu)
 - [@dagmom](https://github.com/dagmom)
+- [@Superskyyy](https://github.com/Superskyyy)
 
 ## 版本
 
 此文档为部分版本提供中文翻译版本, 各版本文档分别如下:
 
+- [8.5.0](zh/8.5.0/README.md)
 
 - [8.0.0](zh/8.0.0/README.md)
 
